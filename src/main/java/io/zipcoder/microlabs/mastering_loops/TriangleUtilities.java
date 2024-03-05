@@ -7,7 +7,8 @@ public class TriangleUtilities {
     }
 
     public static String getRow(int numberOfStars) {
-        return null;
+        
+        return ;
     }
 
     public static String getSmallTriangle() {
